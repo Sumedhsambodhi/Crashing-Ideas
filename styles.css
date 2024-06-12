@@ -1,0 +1,44 @@
+.discription{
+	width: 270px;
+	margin: 20px auto;
+}
+
+.point{
+	width: 480px;
+	margin-left: -149px;
+	font-size: 25px;
+	border-color: black;
+	color: white;
+	border-radius: 40px;
+	border-bottom: 20px;
+}
+
+body{
+	font-family: fantasy, sans-serif;
+	background-color: grey;
+	background-image: url(https://wallpapercave.com/wp/wp9392988.png);
+}
+ 
+h1{
+	color: crimson;
+}
+
+footer{
+	color: black;
+	width: 480px;
+	margin-left: -145px;
+}
+
+.link:link{
+	color: white;
+}	
+
+.link:visited{
+	color: black;
+}
+
+.link:hover{
+	color: crimson;
+}
+
+ 
